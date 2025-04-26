@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boiar&label=Profile%20views&color=0e75b6&style=flat" alt="boiar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boiar" alt="boiar" /></a> </p>
-
 - 🔭 I’m currently working on **EZZAT MEDICAL EDUCATION LTD**
 
 - 🌱 I’m currently learning **NodeJs, NestJs Framework, MongoDB**
