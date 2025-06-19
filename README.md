@@ -1,12 +1,24 @@
 <h1 align="center">Hi 👋, I'm Keroles Masoud</h1>
 <h3 align="center">Software Engineer | Backend Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=boiar&label=Profile%20views&color=0e75b6&style=flat" alt="boiar" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=boiar&label=Profile%20views&color=0e75b6&style=flat" alt="boiar" />
+</p>
+
+🎯 **About Me**
+
+I'm a dedicated and results-driven **Software Engineer** with hands-on experience in both **monolithic** and **microservices architectures**. I specialize in **backend development**, with strong proficiency in:
+
+- **PHP** (Laravel, CodeIgniter)
+- **Node.js** (NestJS)
+
+Over the years, I've developed scalable and maintainable systems, integrated RESTful APIs, and optimized backend performance for various applications. I'm comfortable working across full development cycles—from designing database structures to deploying on production servers.
+
+Currently, I’m expanding my skills with modern tools like **MongoDB** and deepening my understanding of **cloud-based microservices**.
+
+---
 
 - 🔭 I’m currently working on **EZZAT MEDICAL EDUCATION LTD**
-
-- 🌱 I’m currently learning **NodeJs, NestJs Framework, MongoDB**
-
 - 📫 How to reach me **eng.keroles.masoud@gmail.com**
 - 📞 Contact: **01207964740**
 
