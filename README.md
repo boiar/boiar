@@ -80,6 +80,7 @@ Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** a
 
 📧 Email    : [keroles.masoud.issac@gmail.com](mailto:keroles.masoud.issac@gmail.com)  
 📞 Phone    : (+20) 1207964740 - (+20) 1080275572
+
 🔗 Linkedin : [linkedin.com/in/keroles-masoud](https://www.linkedin.com/in/keroles-masoud)
 
 ---
