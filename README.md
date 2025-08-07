@@ -45,6 +45,14 @@ Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=flat)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat&logoColor=white)
+
+
 
 #### Databases
 
@@ -63,13 +71,16 @@ Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** a
 ![Git](https://img.shields.io/badge/GIT-F05032?logo=git&logoColor=white&style=flat)
 ![cPanel](https://img.shields.io/badge/cPanel-FF6C2C?style=flat)
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=white&style=flat)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
+
 
 ---
 
 ### 📬 Let's Connect
 
-📧 Email: [keroles.masoud.issac@gmail.com](mailto:keroles.masoud.issac@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/keroles-masoud](https://www.linkedin.com/in/keroles-masoud)
+📧 Email    : [keroles.masoud.issac@gmail.com](mailto:keroles.masoud.issac@gmail.com)  
+📞 Phone    : (+20) 1207964740 - (+20) 1080275572
+🔗 Linkedin : [linkedin.com/in/keroles-masoud](https://www.linkedin.com/in/keroles-masoud)
 
 ---
 
