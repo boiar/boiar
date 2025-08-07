@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keroles Masoud</h1>
 <h3 align="center">
-  Backend Engineer | NestJS | Node.js | Laravel | Scalable APIs  
+  Backend Engineer | NestJS, Node.js, PHP, Laravel | Building Scalable Systems  
   <br/>📍 Based in Egypt | 🌍 Remote Friendly
 </h3>
 
@@ -19,12 +19,17 @@
 
 ### 🧑‍💻 About Me
 
-I'm a **Backend Engineer** with 3+ years of experience building scalable and maintainable applications using **Node.js**, **NestJS**, and **Laravel**. I specialize in:
+I'm a **Backend Engineer** with 3+ years of experience building scalable and maintainable applications using **Node.js**, **NestJS**, and **Laravel**.
+Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** and **CRM**. 
 
-- Designing **REST APIs** and **event-driven architectures**
-- Working with **microservices**, **Redis**, and **WebSocket**
-- Writing **clean code** with **SOLID principles** and **TDD**
-- Integrating payment systems like **Stripe**, **PayPal**, **Revolut**, and **PayTabs**
+**Technical Highlights:**
+- Advanced backend experience using **Laravel**, **NestJS**, and **REST APIs**.
+- Familiarity with **SOLID principles**, **monolithic** and **microservices architectures**.
+- Strong database knowledge (**MySQL**, **PostgreSQL**, **MongoDB**, **Redis**).
+- Experience with scalable architectures, including **MVC** and **HMVC**.
+- Proficient in **Git**, **Docker**, **Linux**, and **Elasticsearch**.
+- Solid experience with testing using **PHPUnit**, **Jest** and **TDD**.
+- Payment integration experience with **Stripe**, **PayPal**, **Revolut**, **Paymob** and **PayTabs**
 
 ---
 
