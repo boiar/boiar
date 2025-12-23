@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keroles Masoud</h1>
 <h3 align="center">
-  Backend Engineer | NestJS, Node.js, PHP, Laravel | Building Scalable Systems  
+  Backend Engineer | Node.js (Express, NestJS) | PHP (Laravel, CodeIgniter) | Java (Spring Boot) | Building Scalable Systems  
   <br/>📍 Based in Egypt | 🌍 Remote Friendly
 </h3>
 
