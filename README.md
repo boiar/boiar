@@ -10,18 +10,30 @@
 </p>
 
 <p align="center">
-  <a href="Keroles-Masoud-CV-11-2025.pdf" download>
+  <a href="https://docs.google.com/document/d/1eRg5vfbgzIav8Hz1pSOaPp_Q6QW2pQqvt6_OxUNd_zU/edit?tab=t.0" download>
     <img src="https://img.shields.io/badge/📄 Download%20CV-EA4335?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV">
   </a>
 </p>
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
-I'm a **Backend Engineer** with 3+ years of experience building scalable and maintainable applications using **Node.js**, **NestJS**, and **Laravel**.
+I'am a **Technology-agnostic Backend Engineer** with **over 4 years** of experience specializing in **PHP (Laravel, CodeIgniter)** and **Node.js (NestJS)**.
+Currently expanding expertise into **Java and Spring Boot** to further enhance the design of robust, scalable, enterprise-level architectures. 
+Demonstrates a strong technical discipline, a commitment to code quality, and a polyglot development approach focused on continuous product enhancement.
 
-Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** and **CRM**. 
+
+**Worked across various domains:**
+- CMS
+- CRM
+- Multi-Vendor E-Commerce
+- Food Delivery 
+- ERP System
+- E-Learning
+- Tourism 
+
+---
 
 **Technical Highlights:**
 - Advanced backend experience using **Laravel**, **NestJS**, and **REST APIs**.
@@ -34,7 +46,7 @@ Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** a
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 #### Backend & Architecture
 
@@ -42,6 +54,8 @@ Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** a
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=flat)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=flat)
 ![Laravel](https://img.shields.io/badge/Laravel-FC4949?logo=laravel&logoColor=white&style=flat)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?logo=redis&logoColor=white&style=flat)
 ![Microservices](https://img.shields.io/badge/Microservices-000000?style=flat)
@@ -76,7 +90,7 @@ Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** a
 
 ---
 
-### 📬 Let's Connect
+### Let's Connect
 
 📧 Email    : [keroles.masoud.issac@gmail.com](mailto:keroles.masoud.issac@gmail.com)  
 📞 Phone    : (+20) 1207964740 - (+20) 1080275572
@@ -85,4 +99,4 @@ Worked across various domains: **ERP systems**, **e-commerce**, **e-learning** a
 
 ---
 
-*Always open to new challenges, remote work, and global opportunities.* 🌍
+*Always open to new challenges, remote work, and global opportunities.* 
