@@ -35,7 +35,7 @@ Demonstrates a strong technical discipline, a commitment to code quality, and a 
 
 ---
 
-**Technical Highlights:**
+### Technical Highlights
 - Advanced backend experience using **Laravel**, **NestJS**, and **REST APIs**.
 - Familiarity with **SOLID principles**, **monolithic** and **microservices architectures**.
 - Strong database knowledge (**MySQL**, **PostgreSQL**, **MongoDB**, **Redis**).
