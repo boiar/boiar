@@ -99,18 +99,7 @@ Demonstrates a strong technical discipline, a commitment to code quality, and a 
 
 ---
 
-<p align="center">
-  <a href="mailto:keroles.masoud.issac@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/>
-  </a>
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
 
-  <a href="https://www.linkedin.com/in/keroles-masoud">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/>
-  </a>
-
-  <a href="https://medium.com/@kerolesmasoud">
-    <img src="https://img.shields.io/badge/-Medium-000000?style=flat&logo=medium&logoColor=white"/>
-  </a>
-</p>
 
 *Always open to new challenges, remote work, and global opportunities.* 
