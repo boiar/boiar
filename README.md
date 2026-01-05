@@ -93,12 +93,11 @@ Demonstrates a strong technical discipline, a commitment to code quality, and a 
 ### Let's Connect
 
 📧 Email    : [keroles.masoud.issac@gmail.com](mailto:keroles.masoud.issac@gmail.com)  
-📞 Phone    : (+20) 1207964740 - (+20) 1080275572
+📞 Phone    : +201207964740 -- +201080275572
 
 🔗 Linkedin : [linkedin.com/in/keroles-masoud](https://www.linkedin.com/in/keroles-masoud)
 
 🔗 Medium   : [medium.com/@keroles-masoud](https://medium.com/@keroles-masoud)
-
 
 ---
 
