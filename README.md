@@ -96,10 +96,9 @@ Demonstrates a strong technical discipline, a commitment to code quality, and a 
 📞 Phone    : (+20) 1207964740 - (+20) 1080275572
 
 🔗 Linkedin : [linkedin.com/in/keroles-masoud](https://www.linkedin.com/in/keroles-masoud)
+🔗 Medium   : [medium.com/@keroles-masoud](https://medium.com/@keroles-masoud)
+
 
 ---
-
-<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
-
 
 *Always open to new challenges, remote work, and global opportunities.* 
